@@ -32,8 +32,7 @@ You can view the live version of this project here:
 [Live Preview](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/)
 
 ## Screenshots
-![Paddy-Pet Adoption Screenshot](Assets/Screenshot_1.png)
-
+![Paddy-Pet Adoption Screenshot](assets/Screenshot_1.png)
 ## Contact / Author
 
 Name: Mominul Islam Shawon
