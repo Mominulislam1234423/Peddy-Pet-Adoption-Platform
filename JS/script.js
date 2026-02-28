@@ -11,19 +11,22 @@ const displayAllPet = (categorie) => {
     categorie.forEach(pet => {
 
         const button = document.createElement("button");
-        button.classList = " bg-[#0E7A8110] flex items-center justify-center btn";
+        button.classList = "category-btn bg-[#0E7A8110] flex items-center justify-center btn";
         button.innerHTML = `
     <img class="h-10 w-10" src="${pet.category_icon}">
     <p class="text-xl font-bold">${pet.category}</p>
     `
         button.addEventListener("click", () => {
             petCategory(pet.category);
+            categorybtn();
         });
         allPet.append(button)
     });
 }
 loadAllCategories();
 // function load all pet categories end
+
+const categorybtn=()=>{}
 
 // show model section 
 const loadPetDetails = (id) => {
