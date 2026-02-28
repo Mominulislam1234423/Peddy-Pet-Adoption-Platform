@@ -1,10 +1,5 @@
 # 🐾 Peddy - Pet Adoption Platform
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Mominulislam1234423/peddy)
-![GitHub stars](https://img.shields.io/github/stars/Mominulislam1234423/peddy?style=social)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-Your Path to Adoption Starts Here!  
 Peddy is a modern, responsive web application designed to help users find and adopt their perfect pet. Whether you love dogs, cats, rabbits, or birds, Peddy makes the adoption process simple and engaging.
 
 ---
@@ -45,6 +40,5 @@ Name: Mominul Islam Shawon
 
 Email: mominulislamshawon88@gmail.com
 
-GitHub: Mominulislam1234423
+GitHub: https://github.com/Mominulislam1234423
 
-## 📁 Project Structure
